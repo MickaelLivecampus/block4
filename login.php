@@ -27,7 +27,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 ?>
 
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 <head>
     <title>Connexion</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
